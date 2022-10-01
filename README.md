@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
-<head>
-  <title>Atribut Width dan Height di Tag Marquee</title>
- </head>
- <body>
-  <marquee width="500" height="40">Teks ini berjalan</marquee>
- </body>
+
 
 <h3><i>Spare some time to take a look at my <a href="https://FadhiilYusuf.vercel.app/" target="_blank">portfolio</a>!</i></h3>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
