@@ -25,13 +25,6 @@ I am an active 7th semester student at the Polytechnic Engineering Indorama majo
 
 
 ### 🛠 &nbsp;Tech Stack
-<h1 align="center">a Muhammad Fadhiil Yusuf</h1>
-<h3 align="center">Study Independent intern at Indonesia Indicator | Back End Developer | Software Engineer | Undergraduate Student at Politeknik Enjinering Indorama</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhiilyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="fadhiilyusuf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadhiilyusuf" alt="fadhiilyusuf" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -49,8 +42,6 @@ I am an active 7th semester student at the Polytechnic Engineering Indorama majo
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhiilyusuf&show_icons=true&locale=en&layout=compact" alt="fadhiilyusuf" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhiilyusuf&show_icons=true&locale=en" alt="fadhiilyusuf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhiilyusuf&" alt="fadhiilyusuf" /></p>
 
 
 ### ✨ Github Statistic
