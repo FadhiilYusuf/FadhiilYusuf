@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FadhiilYusuf/FadhiilYusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,6 +39,8 @@ I am an active 7th semester student at the Polytechnic Engineering Indorama majo
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
+### 📱 Contact Person
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 ### ✨ Github Statistic
 <p align="left">
