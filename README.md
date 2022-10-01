@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FadhiilYusuf&label=Profile%20Views&color=0e75b6&style=flat" alt="FadhiilYusuf" /> </p>
 
+
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+<head>
+  <title>Atribut Width dan Height di Tag Marquee</title>
+ </head>
+ <body>
+  <marquee width="500" height="40">Teks ini berjalan</marquee>
+ </body>
 
 <h3><i>Spare some time to take a look at my <a href="https://FadhiilYusuf.vercel.app/" target="_blank">portfolio</a>!</i></h3>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
@@ -35,12 +42,11 @@ I am an active 7th semester student at the Polytechnic Engineering Indorama majo
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitLab]([https://img.shields.io/badge/-Git-05122A?style=flat&logo=git](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
-### 📱 Contact Person
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 ### ✨ Github Statistic
 <p align="left">
