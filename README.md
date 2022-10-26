@@ -43,7 +43,7 @@ I am an active 7th semester student at the Polytechnic Engineering Indorama majo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad fadhiil yusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fadhiil yusuf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-fadhiil-yusuf-9a7bb6232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fadhiil yusuf" height="30" width="40" /></a>
 <a href="https://instagram.com/aswaran07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswaran07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/muhammad fadhiil yusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad fadhiil yusuf" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fadhiilyus07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fadhiilyus07" height="30" width="40" /></a>
